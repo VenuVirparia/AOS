@@ -9,3 +9,7 @@ int main(){
   fun(n1,n2);
 return 0;
 }
+
+//step to run
+//1   make
+//2   make run
